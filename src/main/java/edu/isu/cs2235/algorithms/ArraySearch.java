@@ -22,4 +22,5 @@ public interface ArraySearch {
      * </ul>
      */
     <E extends Comparable> int search(E[] array, E item);
+
 }
